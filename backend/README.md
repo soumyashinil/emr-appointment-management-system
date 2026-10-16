@@ -145,7 +145,10 @@ emr-appointment-management/
 │   ├── .env.example
 │   └── package.json
 ├── ENGINEERING_DECISIONS.md
+├── DATABASE_SCHEMA.md
+├── API_DOCUMENTATION.md
 └── README.md
+
 ```
 
 ## Local Setup
